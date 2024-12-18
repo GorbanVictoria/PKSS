@@ -52,7 +52,6 @@ mindmap
         Поддержка_различных_устройств
 
 
-```mermaid
 journey
   title User Journey для Электронного деканата
   section Регистрация и авторизация
