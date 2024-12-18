@@ -1,6 +1,5 @@
 ```mermaid
 gitGraph
-    commit id: "Initial commit" 
     branch development
     commit id: "Добавление функционала регистрации"
     commit id: "Создание страницы профиля студента"
